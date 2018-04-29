@@ -7,7 +7,8 @@ public class HelloWorld {
         System.out.println("Hello World");
         System.out.println("Feature 1 Added");
         System.out.println("Feature 2 Added");
-	System.out.println(Feature 3 added to this");
+	System.out.println("Feature 3 added");
+	System.out.print("Hey there!");
 
     }
 }
